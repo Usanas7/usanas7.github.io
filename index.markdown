@@ -1,6 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Home
 ---
+
+# Welcome to The Reading Nook
+
+Hello! I'm a passionate reader, and this is my little corner of the internet dedicated to books.
+
+## Latest Reviews
+
+Check out my most recent book reviews below. Each post includes my honest thoughts, ratings, and recommendations.
+
+---
+
+*Happy reading! 📚*

@@ -1,18 +1,40 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hello! I'm a passionate reader who believes there's nothing better than getting lost in a good book.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## My Reading Journey
 
+I've been reading for as long as I can remember. From childhood favorites to complex literary fiction, books have always been my escape and my teacher.
 
-[jekyll-organization]: https://github.com/jekyll
+## What I Read
+
+I enjoy a variety of genres:
+
+- **Literary Fiction:** Beautiful writing, complex characters
+- **Fantasy:** Worlds of magic and imagination
+- **Science Fiction:** Ideas about the future and humanity
+- **Mystery:** Puzzles that keep me guessing
+- **Contemporary:** Stories about modern life
+
+## Favorite Authors
+
+- Khaled Hosseini
+- Haruki Murakami
+- Neil Gaiman
+- Chimamanda Ngozi Adichie
+- Kazuo Ishiguro
+- Madeline Miller
+
+## This Blog
+
+Here I share reviews, reading lists, and thoughts about the books I read. I'd love to hear your recommendations too!
+
+---
+
+📚 **Currently Reading:** *Klara and the Sun* by Kazuo Ishiguro
